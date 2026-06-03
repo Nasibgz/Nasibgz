@@ -33,4 +33,4 @@ Currently open to **internship opportunities** in software engineering.
 
 ---
 
-*Always building, always learning.*
+Always building, always learning.
