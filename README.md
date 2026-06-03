@@ -7,7 +7,7 @@ Currently open to **internship opportunities** in software engineering.
 
 ---
 
-### 🛠 What I work with
+### What I work with
 
 **Languages:** Java · JavaScript · Python · C  
 **Backend:** Node.js · Express.js · Spring Boot  
@@ -18,7 +18,7 @@ Currently open to **internship opportunities** in software engineering.
 
 ---
 
-### 🚀 Some things I've built
+### Some things I've built
 
 - **Event Ticketing Platform** — Backend system for managing events and ticket purchasing (admin + user roles), built with Java, Spring Boot, and JUnit
 - **Bike Rental Service** — Full-stack bike-sharing management system with Java, SQLite, and UML architecture
@@ -26,7 +26,7 @@ Currently open to **internship opportunities** in software engineering.
 
 ---
 
-### 📬 Reach me
+### Reach me
 
 - Email: nasib2004@icloud.com  
 - Based in Montréal, QC — available for on-site, hybrid, or remote roles
